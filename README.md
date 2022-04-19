@@ -3,8 +3,11 @@
 z) Lue ja tiivistä artikkeli muutamalla ranskalaisella viivalla. Tässä z-alakohdassa ei tarvitse siis tehdä testejä tietokoneella.
 
 [Commonmark contributors: Markdown Reference](https://commonmark.org/help/) (huomaa ainakin otsikot risuaidoilla, kappalejako tyhjällä rivillä, sisennys (tab) koodia, lista, linkki, kuva.
+
 -Tiivistetty artikkeli Markdownin eri komennoista.
+
 -Hyvin yksinkertainen, näyttää hyvältä joka laitteella.
+
 -Ei mitään hienouksia kuten fontin koon, värin tai tyypin muuttamista.
 
 ## a) Pull first. Tee useita muutoksia git-varastoosi. Tee muutama muutos, jossa yksi commit koskee useampaa tiedostoa. Anna hyvä kuvaukset (commit message), yksi englanninkielinen lause imperatiivissa (määräysmuodossa) "Add top level menu to Foobar synchronizer"
